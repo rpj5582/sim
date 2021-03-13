@@ -1,0 +1,6 @@
+Add functions
+Redo untyped numeric literals - only care about the type when adding new vars or setting var values
+Storing an untyped int into a float breaks things
+Redo strings to be more C like and not garbage collected?
+Add support for custom types
+Implement equality expression for custom types

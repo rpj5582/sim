@@ -1,0 +1,21 @@
+function main() : int
+{
+    int z
+    int a = 10
+    int b = 15
+    int c = -a + b
+    int d = a * c
+    c = d / c
+
+    if d > c and b == 15
+    {
+        loop 10
+        {
+            c += 1
+        }
+        
+        print(c)
+    }
+ 
+    return 0
+}
